@@ -10,3 +10,6 @@ April 15, 2024
 - Removed randomised tiers from /rfaq tb in Mono room
 - Removed randomised tiers from /rfaq tb in MOM room
 - Created /rfaq rands for both Mono room and MOM room, to store randomised metas
+
+April 17, 2024
+- Updated code in /rfaq rands such that all random tours now have an autostart time of 3 mins
