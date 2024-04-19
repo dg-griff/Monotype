@@ -19,4 +19,4 @@ April 18, 2024
 
 April 19, 2024
 - The /rfaq tb was very close to exceeding the 8192 character limit, therefore created /rfaq threat to house monothreat buttons
-- As such, removed monothreat buttons from /rfaq tb in Mono room and MOM room
+- As such, removed monothreat buttons from /rfaq tb for both Mono room and MOM room
