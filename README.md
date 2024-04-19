@@ -2,7 +2,7 @@
 
 Monotype is a public room on the Pokemon Simulator called Pokemon Showdown
 
-Log
+Update Log
 
 April 15, 2024
 - Created Monotype repository
