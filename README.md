@@ -23,4 +23,4 @@ April 19, 2024
 - As such, removed monothreat buttons from /rfaq tb for both Mono room and MOM room
 
 April 23, 2024
-- Updated LC buttons in /rfaq tb of both Mono room and MOM room to include roxei's new !rfaq lc
+- Updated LC buttons in /rfaq tb of both Mono room and MOM room to include roxie's new !rfaq lc
