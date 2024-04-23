@@ -15,6 +15,9 @@ April 15, 2024
 April 17, 2024
 - Updated code in /rfaq rands such that all random tours now have an autostart time of 3 mins
 
+April 23, 2024
+- Updated LC buttons in /rfaq tb of both Mono room and MOM room to include roxei's new !rfaq lc
+
 April 18, 2024
 - Updated /rfaq tb in Mono room and MOM room to include roxie's !rfaq uu and !rfaq ubers
 
