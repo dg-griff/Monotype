@@ -24,3 +24,7 @@ April 19, 2024
 
 April 23, 2024
 - Updated LC buttons in /rfaq tb of both Mono room and MOM room to include roxie's new !rfaq lc
+
+May 07, 2024
+- Updated UU button to reflect April Tier Shift in /rfaq tb of Mono and MOM rooms and /rfaq tn of Mono room
+- Removed "/tour autostart 8" from /rfaq tn of Mono room, in order to fit the 8192 character limit
