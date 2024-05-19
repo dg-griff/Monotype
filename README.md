@@ -28,3 +28,6 @@ April 23, 2024
 May 07, 2024
 - Updated UU button to reflect April Tier Shift in /rfaq tb of Mono and MOM rooms and /rfaq tn of Mono room
 - Removed "/tour autostart 8" from /rfaq tn of Mono room, in order to fit the 8192 character limit
+
+May 19, 2024
+- Added Gen 4 button to facilitate the gen 4 tours scheduled for 5/19 and 5/20
